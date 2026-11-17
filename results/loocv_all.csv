@@ -1,0 +1,6 @@
+Model,MAE,LOOCV RMSE,LOOCV R2
+Mean baseline,4.55,5.38,-0.058
+OLS,4.07,4.89,0.126
+Ridge,4.0,4.77,0.166
+Lasso,4.35,5.19,0.014
+Poly-2 + Ridge (top 3),4.36,5.12,0.04

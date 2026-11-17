@@ -1,0 +1,6 @@
+feature,ridge_std_coef,lasso_std_coef,ridge_alpha,lasso_alpha
+PTR_sec,0.949,1.494,18.874,0.117
+GER_sec,-0.532,-0.261,18.874,0.117
+pct_electricity,-0.808,-1.224,18.874,0.117
+pct_computer,-0.506,-0.0,18.874,0.117
+pct_internet,-0.873,-1.468,18.874,0.117

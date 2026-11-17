@@ -1,0 +1,37 @@
+state,dropout_sec,key,PTR_sec,GER_sec,pct_electricity,pct_computer,pct_internet
+Andaman and Nicobar Islands,5.1,andaman and nicobar islands,6,91.9,93.2,68.7,58.0
+Andhra Pradesh,10.1,andhra pradesh,11,95.9,99.8,87.3,93.9
+Arunachal Pradesh,16.7,arunachal pradesh,9,67.8,68.8,42.6,30.5
+Assam,19.5,assam,11,76.7,87.0,67.9,45.0
+Bihar,20.9,bihar,30,45.6,79.8,19.6,18.5
+Chandigarh,5.2,chandigarh,10,109.7,100.0,100.0,99.6
+Chhattisgarh,14.5,chhattisgarh,14,76.2,94.7,67.3,61.3
+Dadra and Nagar Haveli and Daman and Diu,16.5,dadra and nagar haveli and daman and diu,20,105.0,100.0,97.0,99.3
+Delhi,10.4,delhi,18,102.9,100.0,100.0,100.0
+Goa,7.8,goa,8,108.1,100.0,56.2,87.6
+Gujarat,16.7,gujarat,27,74.4,99.9,98.0,93.9
+Haryana,11.4,haryana,10,89.9,99.8,96.6,67.7
+Himachal Pradesh,4.6,himachal pradesh,6,100.1,99.6,47.5,48.7
+Jammu and Kashmir,16.1,jammu and kashmir,12,65.4,91.0,41.4,45.3
+Jharkhand,10.3,jharkhand,27,62.2,95.2,75.3,52.7
+Karnataka,18.7,karnataka,18,100.9,99.0,52.9,49.2
+Kerala,2.2,kerala,13,98.9,99.9,99.4,92.1
+Ladakh,20.1,ladakh,6,85.9,79.5,53.0,45.7
+Lakshadweep,1.6,lakshadweep,6,72.7,100.0,100.0,100.0
+Madhya Pradesh,15.2,madhya pradesh,18,67.0,89.8,49.3,43.3
+Maharashtra,7.7,maharashtra,20,92.6,94.6,81.5,67.5
+Manipur,12.4,manipur,9,75.9,67.6,33.5,32.3
+Meghalaya,17.5,meghalaya,10,84.7,29.3,18.8,24.5
+Mizoram,11.7,mizoram,9,98.1,87.2,46.6,24.9
+Nagaland,10.3,nagaland,8,60.2,81.0,84.3,56.3
+Odisha,9.1,odisha,16,82.1,96.5,59.4,82.0
+Puducherry,5.9,puducherry,9,99.5,100.0,100.0,100.0
+Punjab,5.2,punjab,9,92.1,99.9,98.8,74.0
+Rajasthan,9.4,rajasthan,11,80.2,91.4,51.6,68.3
+Sikkim,14.3,sikkim,5,74.2,98.8,91.9,46.8
+Tamil Nadu,5.4,tamil nadu,11,97.5,99.0,72.7,99.0
+Telangana,8.0,telangana,9,97.2,95.2,77.9,39.9
+Tripura,8.9,tripura,11,79.2,79.2,49.3,35.3
+Uttar Pradesh,5.9,uttar pradesh,23,63.8,86.4,40.2,38.6
+Uttarakhand,5.6,uttarakhand,10,93.0,92.3,86.6,68.5
+West Bengal,12.0,west bengal,18,101.3,98.0,22.3,17.5

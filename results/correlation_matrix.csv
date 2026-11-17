@@ -1,0 +1,7 @@
+,dropout_sec,PTR_sec,GER_sec,pct_electricity,pct_computer,pct_internet
+dropout_sec,1.0,0.317,-0.381,-0.415,-0.434,-0.479
+PTR_sec,0.317,1.0,-0.332,0.092,-0.129,-0.05
+GER_sec,-0.381,-0.332,1.0,0.372,0.338,0.451
+pct_electricity,-0.415,0.092,0.372,1.0,0.615,0.593
+pct_computer,-0.434,-0.129,0.338,0.615,1.0,0.802
+pct_internet,-0.479,-0.05,0.451,0.593,0.802,1.0
